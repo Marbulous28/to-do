@@ -1,0 +1,9 @@
+.crossOut{
+  text-decoration: line-through;
+}
+
+.deleteThis{
+  cursor: pointer;
+  color: darkred;
+  font-size: 50%;
+}
